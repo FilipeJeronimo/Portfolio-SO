@@ -14,7 +14,6 @@ Definição de Sistema Operativo.
 • Gestão de Recursos.
 • Proteção.
 • Fiabilidade.
-• Tipos de funções dos Sistemas Operativos.
 • O conceito Multitarefa.
 • Instalação e configuração de um Sistema Operativo.
 • Comparar o Sistema Operativo Windows vs Linux vs MacOS
