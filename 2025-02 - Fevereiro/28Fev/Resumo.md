@@ -16,4 +16,5 @@ Além disso, foi apresentada a descrição do **próximo trabalho**: a instalaç
 ## Conclusão
 
 A aula 02 foi focada nas apresentações e na introdução do novo trabalho prático, que exigirá a instalação e configuração do ZorionOS. O professor enfatizou a importância de uma boa apresentação visual, com textos reduzidos e imagens bem escolhidas. O próximo trabalho será uma oportunidade para os alunos aprofundarem os conhecimentos práticos adquiridos na disciplina, ao lidarem diretamente com a instalação de um sistema operativo.
+
 ---
