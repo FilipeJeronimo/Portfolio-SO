@@ -13,7 +13,7 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 - **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
 ## Aulas
-- **[Aula01/](
+- **[Aula01/](https://github.com/FilipeJeronimo/Portfolio-SO/tree/main/2025-02%20-%20Fevereiro/21fev)**: ...
 
   
 
