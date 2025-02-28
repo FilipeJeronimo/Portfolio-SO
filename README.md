@@ -1,34 +1,40 @@
-# Portfólio de Sistemas Operativos (SO)
+# Portfólio de Sistemas Operativos
 
-Este é o meu portfólio para a disciplina de Sistemas Operativos no ISEC. Aqui estão incluídos os projetos, exercícios e documentação relacionados com a cadeira.
+Este repositório contém os trabalhos e projetos desenvolvidos na unidade curricular de **Sistemas Operativos** do ISEC.
 
 ## Estrutura do Repositório
 
 ```
-📂 portfolio_so
-│-- 📁 projetos  # Contém os projetos desenvolvidos na disciplina
-│-- 📁 docs      # Documentação e apontamentos
-│-- 📄 README.md # Apresentação do repositório
+📂 portfolio-so/
+├── 📂 trabalhos/
+│   ├── trabalho1/
+│   ├── trabalho2/
+│   ├── ...
+├── 📂 projetos/
+│   ├── projeto1/
+│   ├── projeto2/
+│   ├── ...
+├── 📄 README.md
+├── 📄 .gitignore
 ```
 
 ## Como Utilizar
 
-1. **Clonar o repositório:**
+1. **Clonar o Repositório**  
    ```bash
-   git clone https://github.com/teu-usuario/portfolio_so.git
+   git clone https://github.com/teu-usuario/portfolio-so.git
    ```
-2. **Navegar até à pasta:**
+
+2. **Adicionar Trabalhos ou Projetos**  
+   Criar uma nova pasta dentro de `trabalhos/` ou `projetos/` e adicionar os arquivos correspondentes.
+
+3. **Fazer Commit e Push**  
    ```bash
-   cd portfolio_so
+   git add .
+   git commit -m "Adicionado novo trabalho/projeto"
+   git push origin main
    ```
-3. **Adicionar novos projetos:**
-   - Criar uma nova pasta dentro de `projetos` para cada novo projeto.
-   - Escrever um `README.md` dentro de cada pasta para documentar o projeto.
 
 ## Licença
 
-Este repositório está sob a licença MIT. Sinta-se à vontade para explorar e aprender!
-
----
-
-🚀 Criado para a disciplina de Sistemas Operativos no ISEC.
+Este repositório é de uso académico e destina-se apenas à avaliação da unidade curricular.
