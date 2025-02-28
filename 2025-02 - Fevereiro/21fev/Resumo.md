@@ -1,19 +1,29 @@
-Professor fala relativamente ao ultimo semestre erros e problemas
-Apresentação sobre sistemas operativos e critérios de avalição 
-Métodos de Avaliação:
-20% trabalho desenvolvido em sala de aula
-40% portfólio digital
-40% trabalho/projetos que contempla apresentação e defesa
+# Aula 01 - Introdução a Sistemas Operativos
 
-Professor apresenta sobre o que ser um sistema operativo?
-E pediu para fazer trabalho prático a pares sobre sistema operativos
-Definição de Sistema Operativo.
-• Funções e características de um Sistema Operativo.
-• Gestão de memória.
-• Entrada e Saída de dados.
-• Gestão de Recursos.
-• Proteção.
-• Fiabilidade.
-• O conceito Multitarefa.
-• Instalação e configuração de um Sistema Operativo.
-• Comparar o Sistema Operativo Windows vs Linux vs MacOS
+## Resumo
+
+Na primeira aula de **Sistemas Operativos (SO)**, o professor fez uma revisão do último semestre, identificando erros e problemas comuns. Em seguida, apresentou a disciplina, abordando os **critérios de avaliação**, que são:
+
+- **20%** Trabalho desenvolvido em sala de aula
+- **40%** Portfólio digital
+- **40%** Trabalho/Projetos (inclui apresentação e defesa)
+
+A aula prosseguiu com uma introdução ao conceito de **Sistema Operativo**, explorando:
+
+- Definição de **Sistema Operativo**
+- **Funções e características** de um SO
+- **Gestão de memória**
+- **Entrada e saída de dados**
+- **Gestão de recursos**
+- **Proteção** e **fiabilidade**
+- O conceito de **multitarefa**
+- **Instalação e configuração** de um SO
+- Comparação entre **Windows, Linux e MacOS**
+
+Além disso, foi solicitado um **trabalho prático em pares** sobre Sistemas Operativos.
+
+## Conclusão
+
+A primeira aula forneceu uma visão geral sobre o funcionamento dos Sistemas Operativos e sua importância na gestão dos recursos computacionais. O professor enfatizou a relevância de compreender as funcionalidades essenciais dos SOs e como diferentes sistemas operativos se comparam entre si. O trabalho prático ajudará a consolidar estes conceitos de forma aplicada.
+
+---
