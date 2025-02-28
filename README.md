@@ -12,6 +12,12 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 - **Material de Aula**: Arquivos PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
 - **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
+## Aulas
+- **[Aula01/](
+
+  
+
+
 ## Objetivos do Portfólio
 
 Este portfólio foi desenvolvido com os seguintes objetivos:
