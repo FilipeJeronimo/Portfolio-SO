@@ -1,40 +1,36 @@
-# Portfólio de Sistemas Operativos
+# Aulas - Portfólio Digital de Sistemas Operativos (SO)
 
-Este repositório contém os trabalhos e projetos desenvolvidos na unidade curricular de **Sistemas Operativos** do ISEC.
+Bem-vindo ao repositório do portfólio digital para a disciplina de **Sistemas Operativos (SO)** do curso **[Nome do Curso]** no **Instituto Superior de Engenharia de Coimbra (ISEC)**, ano letivo **2024/2025**.
 
-## Estrutura do Repositório
+Este repositório foi criado para **documentar**, **organizar** e **partilhar** os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
 
-```
-📂 portfolio-so/
-├── 📂 trabalhos/
-│   ├── trabalho1/
-│   ├── trabalho2/
-│   ├── ...
-├── 📂 projetos/
-│   ├── projeto1/
-│   ├── projeto2/
-│   ├── ...
-├── 📄 README.md
-├── 📄 .gitignore
-```
+## Estrutura do Portfólio
 
-## Como Utilizar
+Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
 
-1. **Clonar o Repositório**  
-   ```bash
-   git clone https://github.com/teu-usuario/portfolio-so.git
-   ```
+- **README.md**: Um resumo dos temas abordados e principais tópicos discutidos na aula.
+- **Material de Aula**: Arquivos PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
+- **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
-2. **Adicionar Trabalhos ou Projetos**  
-   Criar uma nova pasta dentro de `trabalhos/` ou `projetos/` e adicionar os arquivos correspondentes.
+## Objetivos do Portfólio
 
-3. **Fazer Commit e Push**  
-   ```bash
-   git add .
-   git commit -m "Adicionado novo trabalho/projeto"
-   git push origin main
-   ```
+Este portfólio foi desenvolvido com os seguintes objetivos:
 
-## Licença
+- **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
+- **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
+- **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
 
-Este repositório é de uso académico e destina-se apenas à avaliação da unidade curricular.
+## Tecnologias e Ferramentas Utilizadas
+
+Para a construção e manutenção deste portfólio, utilizamos:
+
+- **Git e GitHub**: Para controlo de versão e armazenamento dos arquivos de forma segura e organizada.
+- **GitHub Desktop**: Facilita o controlo de versão e o envio dos arquivos do portfólio.
+- **Ferramentas de Edição de Texto e PDF**: Microsoft Word, Google Docs e editores de PDF para criação e edição de documentos.
+
+## Sobre a Disciplina
+
+A disciplina de **Sistemas Operativos (SO)** aborda os conceitos fundamentais sobre o funcionamento dos sistemas operativos modernos. Entre os tópicos estudados estão **gestão de processos e threads**, **gestão de memória**, **sistemas de ficheiros**, **segurança e permissões**, além de conceitos práticos sobre SOs baseados em Linux e Windows.
+
+---
+
