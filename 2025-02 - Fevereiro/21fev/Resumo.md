@@ -1,4 +1,4 @@
-# Aula 01 - Introdução a Sistemas Operativos
+# 01ª Aula - Introdução a Sistemas Operativos
 
 ## Resumo
 
