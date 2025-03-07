@@ -27,3 +27,5 @@ Além disso, foi solicitado um **trabalho prático em pares** sobre Sistemas Ope
 A primeira aula forneceu uma visão geral sobre o funcionamento dos Sistemas Operativos e sua importância na gestão dos recursos computacionais. O professor enfatizou a relevância de compreender as funcionalidades essenciais dos SOs e como diferentes sistemas operativos se comparam entre si. O trabalho prático ajudará a consolidar estes conceitos de forma aplicada.
 
 ---
+
+**Data da aula:** 21/02
