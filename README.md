@@ -4,7 +4,7 @@ Bem-vindo ao repositório do portfólio digital para a disciplina de **Sistemas 
 
 Este repositório foi criado para **documentar**, **organizar** e **partilhar** os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
 
-![SO Imagem](Imagens/so.jpg)
+![SO Imagem](./Imagens/so.jpg)
 
 ## Estrutura do Portfólio
 
