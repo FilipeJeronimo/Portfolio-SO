@@ -3,7 +3,9 @@
 Bem-vindo ao repositório do portfólio digital para a disciplina de **Sistemas Operativos (SO)** do curso **TPSI** no **Instituto Superior de Engenharia de Coimbra (ISEC)**, ano letivo **2024/2025**.
 
 Este repositório foi criado para **documentar**, **organizar** e **partilhar** os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
-![](C:\Users\filip\Desktop\Apresentacao\mortuary_assistant.png)
+
+![](imagens/mortuary_assistant.png)
+
 ## Estrutura do Portfólio
 
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
