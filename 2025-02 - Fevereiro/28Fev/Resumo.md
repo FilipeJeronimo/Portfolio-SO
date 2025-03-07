@@ -1,4 +1,4 @@
-# Aula 02 - Apresentação do Trabalho e Novas Diretrizes
+# 02ª Aula - Apresentação do Trabalho e Novas Diretrizes
 
 ## Resumo
 
