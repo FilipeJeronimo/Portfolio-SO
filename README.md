@@ -6,6 +6,9 @@ Este repositório foi criado para **documentar**, **organizar** e **partilhar** 
 
 ![SO Imagem](./Imagens/so.jpg)
 
+Imagem retirada de:
+> https://universodigital.org/en/gnu-linux-en/
+
 ## Estrutura do Portfólio
 
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
