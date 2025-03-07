@@ -6,11 +6,14 @@ Este repositório foi criado para **documentar**, **organizar** e **partilhar** 
 
 ![SO Imagem](./Imagens/so.jpg)
 
+Imagem retirada de:
+> https://universodigital.org/en/gnu-linux-en/
+
 ## Estrutura do Portfólio
 
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
 
-- **README.md**: Um resumo dos temas abordados e principais tópicos discutidos na aula.
+- **`README.md`**: Um resumo dos temas abordados e principais tópicos discutidos na aula.
 - **Material de Aula**: Arquivos PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
 - **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
@@ -24,9 +27,11 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 
 Este portfólio foi desenvolvido com os seguintes objetivos:
 
-- **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
-- **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
-- **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
+✅ **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
+
+✅ **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
+
+✅ **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
 
 ## Tecnologias e Ferramentas Utilizadas
 
