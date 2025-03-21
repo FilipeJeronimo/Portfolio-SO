@@ -40,7 +40,7 @@ Este portfólio foi desenvolvido com os seguintes objetivos:
 Para a construção e manutenção deste portfólio, utilizamos:
 
 - **Git e GitHub**: Para controlo de versão e armazenamento dos arquivos de forma segura e organizada.
-- **GitHub Desktop**: Facilita o controlo de versão e o envio dos arquivos do portfólio.
+- **GitHub Desktop**: Facilita o controlo de versão e o envio dos ficheiros do portfólio.
 - **Ferramentas de Edição de Texto e PDF**: Microsoft Word, Google Docs e editores de PDF para criação e edição de documentos.
 
 ## Sobre a Disciplina
