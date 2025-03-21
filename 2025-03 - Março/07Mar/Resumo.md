@@ -1,4 +1,4 @@
-# 03ª Aula – Título
+# 03ª Aula – Instalação e Configuração de um SO Open Source
 
 ## Resumo
 Apresentação por parte do professor sobre SO, e continuação do trabalho 2 que é sobre instalação de uma distribuição Linux, como fazer e instalar, e configurar dispositivos e device drivers num SO Open Source. Sendo o que escolhemos o Zorin OS 17.2.
